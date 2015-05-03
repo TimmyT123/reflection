@@ -38,3 +38,9 @@ use one instead of another?
 
     forks are copies that stay on github.  clones are copies from github to local. 
     branches are additions away from original/master.
+    
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    To be current.
+    
+
