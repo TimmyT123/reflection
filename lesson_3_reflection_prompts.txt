@@ -52,4 +52,6 @@ When would you want to make changes in a separate branch rather than directly in
 What benefits does each approach have?
 
     To work on a bug, or test the program to go a different way.
+
+This is a test message.
     
