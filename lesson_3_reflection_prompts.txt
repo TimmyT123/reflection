@@ -48,3 +48,8 @@ what would be harder?
 
     Fill in your answer here
     
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+    To work on a bug, or test the program to go a different way.
+    
